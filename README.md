@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sachin+Mandpe;AI+Engineer;Building+AI+Agents+and+LLM+Apps;Python+Automation+%7C+MCP+%7C+Google+ADK" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Sachin+Mandpe" alt="Sachin Mandpe typing animation" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=2400&pause=900&color=F97316&center=true&vCenter=true&width=720&lines=AI+Engineer" alt="AI Engineer typing animation" />
 
 ### AI Engineer focused on practical AI agents, LLM applications, and Python automation systems.
 
@@ -33,15 +35,6 @@ I turn ideas into working prototypes, especially where AI can help with research
 
 </div>
 
-## Featured Projects
-
-| Project | What It Does | Tech |
-| --- | --- | --- |
-| **AI Research Agent ADK** | Multi-agent company research assistant for business research, financial analysis, and risk assessment. | Python, Google ADK, Gemini, MCP |
-| **AI Utility Agent ADK** | Local utility assistant with specialist agents for web research, coding help, reasoning, validation, and factual checks. | Python, Google ADK, Gemini, MCP |
-| **AI Driven Automated Interviewer** | Prototype for AI-driven interviews with context-aware questioning. | Python, AI, Automation |
-| **Project Interview Evaluator** | Automated project presentation evaluator that analyzes content and generates follow-up questions. | Python, AI Evaluation, NLP |
-
 ## Current Focus
 
 ```text
@@ -56,7 +49,7 @@ I am currently exploring how multiple AI agents can work together to produce mor
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sachiin4&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Sachin's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachiin4&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachiin4&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" />
 
 </div>
 
