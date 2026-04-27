@@ -50,10 +50,3 @@ An automated evaluator for project presentations that analyzes content and gener
 ## Current Focus
 
 I am currently exploring multi-agent AI workflows, MCP-backed tool execution, LLM orchestration, and practical AI systems that can be tested locally and extended into real-world applications.
-
-## GitHub Stats
-
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachiin4&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachiin4&layout=compact&theme=github_dark&hide_border=true)
-
