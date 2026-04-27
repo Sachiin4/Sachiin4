@@ -1,6 +1,6 @@
 # Hi, I'm Sachin
 
-Data Scientist focused on building practical AI agents, LLM applications, and Python automation systems.
+AI Engineer focused on building practical AI agents, LLM applications, and Python automation systems.
 
 I enjoy turning ideas into working prototypes, especially where AI can help with research, interviews, validation, decision-making, and business analysis.
 
