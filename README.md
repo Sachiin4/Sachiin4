@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer&text=Sachin%20Mandpe&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Evaluation%20Specialist&descAlignY=62&descSize=14" alt="Sachin Mandpe header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer" alt="Header wave" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&pause=900&duration=2600&color=00D9FF&center=true&vCenter=true&random=false&width=760&lines=Building+Practical+AI+Agents;LLM+Evaluation+%7C+RLHF+%7C+RAG+Validation;Python+Automation+%7C+Docker+%7C+Model+Auditing;Google+ADK+%7C+Gemini+%7C+MCP" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=36&pause=900&duration=2600&color=FFFFFF&center=true&vCenter=true&random=false&width=760&lines=Sachin+Mandpe" alt="Sachin Mandpe" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=22&pause=900&duration=2600&color=00D9FF&center=true&vCenter=true&random=false&width=760&lines=AI+Engineer+%7C+LLM+Evaluation+Specialist;Building+Practical+AI+Agents;RLHF+%7C+RAG+Validation+%7C+Model+Auditing;Google+ADK+%7C+Gemini+%7C+MCP" alt="Typing animation" />
 
 <br/>
 
