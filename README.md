@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Sachin+Mandpe" alt="Sachin Mandpe typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Sachin+Mandpe" alt="Sachin Mandpe typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=2400&pause=900&color=F97316&center=true&vCenter=true&width=720&lines=AI+Engineer" alt="AI Engineer typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2400&pause=900&color=FF4ECD&center=true&vCenter=true&width=720&lines=AI+Engineer" alt="AI Engineer typing animation" />
 
 ### AI Engineer focused on practical AI agents, LLM applications, and Python automation systems.
 
